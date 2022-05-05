@@ -15,10 +15,10 @@
     "Mappings":{
         "RegionMap":{
             "us-east-1":{
-                "micro":"ami-026c8acd92718196b"
+                "micro":"ami-079b5e5b3971bd10d"
             },
-            "us-west-2":{
-                "micro":"ami-068670db424b01e9a"
+            "ap-south-1":{
+                "micro":"ami-079b5e5b3971bd10d"
             }
         }
     },
